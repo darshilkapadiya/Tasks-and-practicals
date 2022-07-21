@@ -1,0 +1,6 @@
+Date			Amount			Transact status			Available Balance
+
+
+09/24/21 11:26:28	20000		Credited		9990199
+09/24/21 11:26:37	3000		Debited		9987199
+09/24/21 11:27:11	20010203		Credited		29997402
